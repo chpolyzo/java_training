@@ -35,3 +35,6 @@ multiplying their pay base by the number of days they worked.
 Employees are characterized by the number of bonuses accrued and their pay is calculated
 adding the bonuses accrued to the salary base
 Finally we add that if necessary we can organize the staff in groups or staffs
+![chart](https://user-images.githubusercontent.com/49782010/162243207-e977820a-009a-436b-b1ff-f6e8e4302d6a.png)
+
+
