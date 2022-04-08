@@ -22,7 +22,14 @@ public class Volontari extends Persona {
 
     @Override
     public String toString() {
-        return "Volontari{}";
+        return "Volontari{" +
+                "nome='" + nome + '\'' +
+                ", cognome='" + cognome + '\'' +
+                ", indirizzo='" + indirizzo + '\'' +
+                ", telefono='" + telefono + '\'' +
+                ", email='" + email + '\'' +
+                ", paga=" + paga +
+                '}';
     }
 
     @Override
